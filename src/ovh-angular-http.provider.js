@@ -23,8 +23,6 @@ import URI from 'urijs';
 require('urijs/src/URITemplate');
 
  export default function () {
-    "use strict";
-
     var self = this;
 
     self.rootPath = "";
